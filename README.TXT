@@ -2,6 +2,10 @@ Virtualbox versions:
 
 innotek Virtualbox 1.3.8: https://github.com/glowiak/virtualbox-archive/releases/download/innotek138/VirtualBox_1.3.8_Win_x86.msi
 
+innotek Virtualbox 1.5.2 x86: https://github.com/glowiak/virtualbox-archive/releases/download/innotek152/VirtualBox_1.5.2_Win_x86.msi
+
+innotek Virtualbox 1.5.2 x64: https://github.com/glowiak/virtualbox-archive/releases/download/innotek152/VirtualBox_1.5.2_Win_amd64.msi
+
 Sun xVM Virtualbox 2.2.4: https://github.com/glowiak/virtualbox-archive/releases/download/sun-xvm-224/VirtualBox-2.2.4-47978-Win.exe
 
 Sun Virtualbox 3.1.2: https://github.com/glowiak/virtualbox-archive/releases/download/sun-vbox-312/VirtualBox-3.1.2-56127-Win.exe
